@@ -1,0 +1,29 @@
+{
+  "name": "qoodblock-crowdsale",
+  "version": "1.0.0",
+  "description": "qoodblock crowdsale",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qoodblock/crowdsale.git"
+  },
+  "keywords": [
+    "qoodblock",
+    "crowdsale"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qoodblock/crowdsale/issues"
+  },
+  "homepage": "https://github.com/qoodblock/crowdsale#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.10.0"
+  }
+}
